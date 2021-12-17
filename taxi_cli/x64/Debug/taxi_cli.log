@@ -1,0 +1,28 @@
+﻿  taxi_cli.c
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(153,11): warning C4013: 'getche'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(163,68): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(163,68): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(164,15): warning C4033: 'RecvMsg'은(는) 값을 반환해야 합니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(193,76): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(193,76): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(194,25): warning C4098: 'stat': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(173,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(174,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(276,72): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(276,72): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(277,21): warning C4098: 'join': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(283,50): warning C4020: 'strcpy_s': 실제 매개 변수가 너무 많습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(318,68): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(318,68): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(323,17): warning C4098: 'join': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(326,13): warning C4098: 'join': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(263,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(264,10): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(343,68): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(343,68): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(350,53): warning C4020: 'strcpy_s': 실제 매개 변수가 너무 많습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(369,68): warning C4047: '함수': 'MYSQL *'의 간접 참조 수준이 'MYSQL **'과(와) 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(369,68): warning C4024: 'mysql_error': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(167): warning C4715: 'RecvMsg': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Administrator\source\repos\2_2project\taxi_cli\taxi_cli.c(390): warning C4715: 'login': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  taxi_cli.vcxproj -> C:\Users\Administrator\source\repos\2_2project\x64\Debug\taxi_cli.exe

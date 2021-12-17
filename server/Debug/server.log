@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(server.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  testserver.c
+C:\Users\Administrator\source\repos\2_2project\2_2project\testserver.c(72,13): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\source\repos\2_2project\2_2project\testserver.c(85,11): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\source\repos\2_2project\2_2project\testserver.c(20,9): warning C4101: 'strLen' :참조되지 않은 지역 변수입니다.
+  server.vcxproj -> C:\Users\Administrator\source\repos\2_2project\Debug\testserver.exe
